@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante as aulas da [Digital Innovation Inc](https://www.dio.me/).
 
+### [Para jogar clique aqui!](https://gui-beraldo.github.io/dioLabs__tRexGame/)
+
 Neste projeto tivemos o desafio de criar uma **cópia do jogo do dinossauro**, famoso no **Google Chrome** por nos entreter quando estamos sem conexão.
 
 Nele utilizamos **HTML**, **CSS** e **JavaScript**, *abordando de maneira* simples diversos **conceitos introdutórios importantes** para programação na web *como tags básicas* de HTML, *manipulação de eventos*, *funções* e *manipulação de elementos HTML usando JavaScript*, *estilização* e *animações básicas com CSS*.
